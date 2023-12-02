@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beconsistent-99
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning HTML, CSS, REACT JS, NODE JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nehabhilkar29@gmail.com
 
 <!---
